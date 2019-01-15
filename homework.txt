@@ -1,0 +1,14 @@
+solution The Fortune Teller
+
+var birthYear = 1987;
+var currentYear = 2019;
+var birthYear = 1987;
+birthYear
+1987
+var currentYear = 2019;
+currentYear
+2019
+
+var age = currentYear - birthYear
+;
+console.log("They are either " 1+31 or (31 - 1));
