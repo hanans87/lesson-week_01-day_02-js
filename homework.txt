@@ -1,4 +1,4 @@
-solution The Fortune Teller
+solution The Age Calculator
 
 var birthYear = 1987;
 var currentYear = 2019;
